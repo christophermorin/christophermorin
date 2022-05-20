@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js**
 
-- 📫 How to reach me **morin.james.c@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
