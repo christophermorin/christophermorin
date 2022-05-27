@@ -2,7 +2,6 @@
 <h3 align="center">a software developer ready to help you bring your ideas to life.</h3>
 
 
-<p>Going from an infantry soldier to software developer has been a huge blast. So many new challenges met and milestones acheived, I am very excited build on this success going forward. With a background in risk management and buisness continuity, I fully believe in the power of technology to be the catalyst for positive change in the world and the solution to some of the most pressing issues we face today.</p>
 
 - 👨‍💻 View my portfolio here: [https://chrismorin.netlify.app/](https://chrismorin.netlify.app/)
 
