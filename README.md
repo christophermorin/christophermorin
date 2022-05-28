@@ -56,7 +56,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio with links to my work and ways get in contact with me.</p>
+        <p><strong>Javascript, HTML5, CSS3</strong> - Portfolio with links to my work and ways to get in contact with me.</p>
     </td>
   </tr>
   
