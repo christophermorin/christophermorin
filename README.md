@@ -4,7 +4,7 @@
 
 💻 View my portfolio here: [https://chrismorin.netlify.app/](https://chrismorin.netlify.app/)
 
-<!-- - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js**  -->
+<!-- - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js** -->
 
 
 
