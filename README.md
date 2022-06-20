@@ -26,6 +26,7 @@
         <br />
         <a target="_blank" href="https://bistrosena.netlify.app/>
             <img src="" width="100%" alt="Bistro Sena"/>
+            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif">
         </a>
         <br />
         <p align="center">
