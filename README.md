@@ -1,21 +1,35 @@
 <h1 align="center">Hi 👋, I'm Chris Morin</h1>
-<h3 align="center">a software developer ready to help you bring your ideas to life.</h3>
+<h3 align="center">software developer, problem solver.</h3>
 
-
-💻 View my portfolio here: [https://chrismorin.netlify.app/](https://chrismorin.netlify.app/)
+<h3 align="center">See <a href="https://chrismorin.netlify.app/">my website</a> for more information!</h3>
 
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js** -->
 
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://twitter.com/longhumans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="longhumans" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/chrisjmorin/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chris morin" height="30" width="40" /></a>
 </p>
+<br />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p>
+<h3 align="center">Languages and Tools:</h3>
+<p align="center">
+    <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+</p>
+
+<!---<p align="center"> <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>  </p> --->
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
@@ -36,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Task Yourself is an interface allowing you to keep track of your daily goals. Add a goal and you will be able to edit, remove, and mark each entry complete as you go through your day.</p>
+        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Task Yourself is an interface allowing you to keep track of your daily goals. Add a goal and you will be able to edit, remove, and mark each entry complete as you go through your day.</p>
     </td>
   </tr>
   <tr>
@@ -57,7 +71,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p> <strong>Javascript, HTML5, CSS3</strong> - With a focus on minimalism, Bisto Sena is a fully responsive, sleek and elegant design that can be tailored to any small buisness owner.</p>
+        <p align="center"> <strong>Javascript, HTML5, CSS3</strong> - With a focus on minimalism, Bisto Sena is a fully responsive, sleek and elegant design that can be tailored to any small buisness owner.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
@@ -75,13 +89,13 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to all my completed and ongoing projects.</p>
+        <p align="center"><strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to all my completed and ongoing projects.</p>
     </td>
   </tr>
   
   
 </table>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophermorin&show_icons=true&locale=en&layout=compact" alt="christophermorin" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophermorin&show_icons=true&locale=en&layout=compact" alt="christophermorin" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophermorin&" alt="christophermorin" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophermorin&" alt="christophermorin" /></p>
