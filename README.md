@@ -19,7 +19,26 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-  
+  <tr>
+   <td width="50%" valign="top">
+      <h3 align="center">Task Yourself</h3>
+        <br />
+        <a target="_blank" href="https://bistrosena.netlify.app/>
+            <img src="" width="100%" alt="Bistro Sena"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/christophermorin/task_yourself" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://task-yourself.herokuapp.com/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Task Yourself is an interface allowing you to keep track of your daily goals. Add a goal and you will be able to edit, remove, and mark each entry complete as you go through your day.</p>
+    </td>
+  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3 align="center">Bistro Sena</h3>
@@ -38,7 +57,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p> With a focus on minimalism, Bisto Sena is a fully responsive, sleek and elegant design built with HTML5, CSS3 and JS.</p>
+        <p> <strong>Javascript, HTML5, CSS3</strong> - With a focus on minimalism, Bisto Sena is a fully responsive, sleek and elegant design that can be tailored to any small buisness owner.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio</h3>
