@@ -50,7 +50,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Task Yourself is an interface allowing you to keep track of your daily goals. Add a goal and you will be able to edit, remove, and mark each entry complete as you go through your day.</p>
+        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Task Yourself allows you to keep track of your daily goals. Add a goal and you will be able to edit, remove, and mark each entry complete as you go through your day.</p>
     </td>
   </tr>
   <tr>
