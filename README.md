@@ -82,7 +82,7 @@
         <br />
         <p align="center">
           
-  <a href="https://github.com/christophermorin/shiny-new-portfolio" target="_blank">
+  <a href="https://github.com/christophermorin/shiny-new-portfolio" target= _blank>
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://chrismorin.netlify.app/" target="_blank">
