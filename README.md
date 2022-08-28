@@ -18,8 +18,6 @@
 <p align="center">
     <img src="https://img.shields.io/static/v1?label=|&message=HTML5&color=23555f&style=plastic&logo=html5"/>
     <img src="https://img.shields.io/static/v1?label=|&message=CSS3&color=285f65&style=plastic&logo=css3"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=SASS&color=2b625f&style=plastic&logo=sass"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=BOOTSTRAP&color=316c5e&style=plastic&logo=bootstrap"/>
     <img src="https://img.shields.io/static/v1?label=|&message=JAVASCRIPT&color=3c7f5d&style=plastic&logo=javascript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
@@ -58,11 +56,10 @@
         <br />
         <a target="_blank" href="https://bistrosena.netlify.app/>
             <img src="" width="100%" alt="Bistro Sena"/>
-            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif">
+            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif" height="280px">
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/christophermorin/bistro_sena" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
@@ -76,11 +73,10 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://chrismorin.netlify.app/">
-            <img src="" width="100%"  alt=""/>
+            <img src="https://github.com/christophermorin/assets/blob/030cea57dc96b40c21f8a5fb60e52f406f02d7ed/moon-build.gif" height="280px" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
-          
   <a href="https://github.com/christophermorin/moon_build_portfolio" target= _blank>
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
@@ -88,7 +84,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to all my completed and ongoing projects.</p>
+        <p align="center"><strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to some of my completed and ongoing projects.</p>
     </td>
   </tr>
   
