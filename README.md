@@ -72,13 +72,12 @@
     <td width="50%" valign="top">
       <h3 align="center">Bistro Sena</h3>
         <br />
-        <a target="_blank" href="https://bistrosena.netlify.app/>
-            <img src="" width="100%" alt="Bistro Sena"/>
+        <a target="_blank" href="https://bistrosena.netlify.app"/>
             <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif" height="280px">
         </a>
         <br />
         <p align="center">
-  <a href="https://github.com/christophermorin/bistro_sena" target="_blank">
+            <a href="https://github.com/christophermorin/bistro_sena" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
   <a href="https://bistrosena.netlify.app/" target="_blank">
