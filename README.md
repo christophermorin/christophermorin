@@ -49,6 +49,24 @@
       </p>
         <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Potaskmo allows you to keep track of your daily goals. Run a Pomodoro timer. Add your goals, edit, remove, and mark each entry complete as you go through your day.</p>
     </td>
+    <td width="50%" valign="top">
+      <h3 align="center">Artist Landing</h3>
+        <br />
+        <a target="_blank" href="https://artist-landing.netlify.app/">
+            <img src="" width="100%" alt=""/>
+            <img src="https://github.com/christophermorin/assets/blob/2342c381200252b51657fcab3f2439eb5a63bd0e/artist-landing.png" height="280px">
+        </a>
+        <br />
+        <p align="center">
+  <a href="https://github.com/christophermorin/artist_landing" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://artist-landing.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+  </a>
+      </p>
+        <p align="center"> <strong>Javascript, HTML5, CSS3</strong> - A template landing page for user profiles. Used to explore new CSS styles and techniques.</p>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
