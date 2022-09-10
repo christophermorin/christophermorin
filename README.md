@@ -72,7 +72,7 @@
       <h3 align="center">Bistro Sena</h3>
         <br />
         <a target="_blank" href="https://bistrosena.netlify.app"/>
-            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif" height="280px">
+            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif">
         </a>
         <br />
         <p align="center">
@@ -89,7 +89,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://chrismorin.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/030cea57dc96b40c21f8a5fb60e52f406f02d7ed/moon-build.gif" height="280px" alt="Portfolio"/>
+            <img src="https://github.com/christophermorin/assets/blob/030cea57dc96b40c21f8a5fb60e52f406f02d7ed/moon-build.gif" height="250px" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
