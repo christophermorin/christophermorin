@@ -89,7 +89,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://chrismorin.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/030cea57dc96b40c21f8a5fb60e52f406f02d7ed/moon-build.gif" height="200px" width="100%" alt="Portfolio"/>
+            <img src="https://github.com/christophermorin/assets/blob/99e80408635aea63a0cf504084c4b07e54158584/portfolio.gif" height="240px" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
