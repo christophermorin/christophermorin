@@ -51,7 +51,7 @@
       <h3 align="center">Artist Landing</h3>
         <br />
         <a target="_blank" href="https://artist-landing.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/ad3d0da849e0b02fe62adb73e17b6cc0dcb3706d/artist_landing.gif">
+            <img src="https://github.com/christophermorin/assets/blob/ad3d0da849e0b02fe62adb73e17b6cc0dcb3706d/artist_landing.gif" height="200px">
         </a>
         <br />
         <p align="center">
