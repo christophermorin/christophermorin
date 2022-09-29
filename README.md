@@ -34,7 +34,7 @@
       <h3 align="center">Direct Mind</h3>
         <br />
         <a target="_blank" href="https://github.com/christophermorin/directing-mind">
-            <img src="https://github.com/christophermorin/assets/blob/d50c3da7ce5ba934b9601e0893da73e3f57464a3/DirectMind.jpg" width="100%" alt="Direct Mind"/>
+            <img src="https://github.com/christophermorin/assets/blob/d50c3da7ce5ba934b9601e0893da73e3f57464a3/DirectMind.jpg" width="100%" height="200px" alt="Direct Mind"/>
         </a>
         <br />
         <p align="center">
