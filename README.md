@@ -5,8 +5,6 @@
 
 <!-- - 💬 Ask me about **HTML, CSS, JavaScript, React and Node.js** -->
 
-
-
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://twitter.com/longhumans" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="longhumans" height="30" width="40" /></a>
@@ -33,21 +31,21 @@
 <table bordercolor="#66b2b2">
   <tr>
    <td width="50%" valign="top">
-      <h3 align="center">Potaskmo</h3>
+      <h3 align="center">Direct Mind</h3>
         <br />
-        <a target="_blank" href="https://bistrosena.netlify.app/>
-            <img src="" width="100%" alt="Bistro Sena"/>
+        <a target="_blank" href="https://github.com/christophermorin/directing-mind">
+            <img src="https://github.com/christophermorin/assets/blob/d50c3da7ce5ba934b9601e0893da73e3f57464a3/DirectMind.jpg" width="100%" alt="Direct Mind"/>
         </a>
         <br />
         <p align="center">
           
-  <a href="https://github.com/christophermorin/potaskmo" target="_blank">
+  <a href="https://github.com/christophermorin/directing-mind" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>  
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, HTML5, CSS3</strong> - Potaskmo allows you to keep track of your daily goals. Run a Pomodoro timer. Add your goals, edit, remove, and mark each entry complete as you go through your day.</p>
+        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, Tailwind</strong> - A Project Board webapp meant to increase focus and track your progress from beginner to mastery of your goals. Create projects, assign individual tasks to each and complete those tasks with the help of a built in PomoDoro timer. Most importantly record your progress, your achievements and the lessons you've learned over your journey with a built in Journaling/Blog section.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Artist Landing</h3>
