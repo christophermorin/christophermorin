@@ -52,7 +52,7 @@
    <td width="50%" valign="top">
       <h3 align="center">Social Dashboard</h3>
         <br />
-        <a target="_blank" href="https://react-social-dashboard.netlify.app/">
+        <a href="https://react-social-dashboard.netlify.app/" target="_blank">
             <img src="https://github.com/christophermorin/assets/blob/86be6bba3d98e410d64a6ca9136870f1ce30bda3/react-social-dashboard.gif" width="500"  alt="Social Dashboard"/>
         </a>
         <br />
