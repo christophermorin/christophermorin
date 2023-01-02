@@ -74,7 +74,7 @@
       <h3 align="center">Direct Mind</h3>
         <br />
         <a target="_blank" href="https://github.com/christophermorin/directing-mind">
-            <img src="https://github.com/christophermorin/assets/blob/d50c3da7ce5ba934b9601e0893da73e3f57464a3/DirectMind.jpg" width="100%" height="200px" alt="Direct Mind"/>
+            <img src="https://github.com/christophermorin/assets/blob/477f254567f847a3533510d52b9373f347d2bd45/directMind_jan.jpg" width="100%" height="300px" alt="Direct Mind"/>
         </a>
         <br />
         <p align="center">
@@ -91,7 +91,7 @@
       <h3 align="center">Artist Landing</h3>
         <br />
         <a target="_blank" href="https://artist-landing.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/ad3d0da849e0b02fe62adb73e17b6cc0dcb3706d/artist_landing.gif" height="200px">
+            <img src="https://github.com/christophermorin/assets/blob/ad3d0da849e0b02fe62adb73e17b6cc0dcb3706d/artist_landing.gif" height="300px">
         </a>
         <br />
         <p align="center">
@@ -127,7 +127,7 @@
       <h3 align="center">Portfolio</h3>
         <br />
       <a target="_blank" href="https://chrismorin.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/99e80408635aea63a0cf504084c4b07e54158584/portfolio.gif" height="200px" width="100%" alt="Portfolio"/>
+            <img src="https://github.com/christophermorin/assets/blob/99e80408635aea63a0cf504084c4b07e54158584/portfolio.gif" height="250px" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
