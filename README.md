@@ -6,7 +6,7 @@
 </h1>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/chrisjmorin/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge" />
+        <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn Badge"/>
     </a>
     <a href="https://chrismorin.netlify.app/" target="_blank">
         <img src="https://img.shields.io/badge/Portfolio-red?&style=for-the-badge" alt="Personal Portfolio" />
@@ -21,7 +21,7 @@
 ### About Me:
 - I'm a software developer working with both front and back end technologies.
 - I enjoy contributing to Opensource projects and writing about my experiences with tech.
-- I'm always building and currently expanding my knowledge of React.
+- I'm always building and currently expanding my knowledge of TypeScript and SQL.
 - Reach me through my personal <a href="https://chrismorin.netlify.app/"> website </a> or on <a href="https://www.linkedin.com/in/chrisjmorin/"> LinkedIn </a>.
 
 ---
@@ -48,99 +48,99 @@
 
 <h1 align="center">Projects</h1>
 <table bordercolor="#66b2b2">
-      <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Social Dashboard</h3>
-        <br />
-        <a href="https://react-social-dashboard.netlify.app/" target="_blank">
-            <img src="https://github.com/christophermorin/assets/blob/86be6bba3d98e410d64a6ca9136870f1ce30bda3/react-social-dashboard.gif" width="500"  alt="Social Dashboard"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/christophermorin/react-social-dashboard" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a> 
-  <a href="https://react-social-dashboard.netlify.app/">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>Vite, React, CSS</strong> - Track your followers, subscribers and the daily changes across multiple social media sites. Built using Vite, React and custom CSS.</p>
-    </td>
-
-  </tr>
-  <tr>
-   <td width="50%" valign="top">
-      <h3 align="center">Direct Mind</h3>
-        <br />
-        <a target="_blank" href="https://github.com/christophermorin/directing-mind">
-            <img src="https://github.com/christophermorin/assets/blob/477f254567f847a3533510d52b9373f347d2bd45/directMind_jan.jpg" width="100%" height="300px" alt="Direct Mind"/>
-        </a>
-        <br />
-        <p align="center">
-          
-  <a href="https://github.com/christophermorin/directing-mind" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>Javascript, Node.js, Express.js, MongoDB, Tailwind</strong> - A Project Board webapp meant to increase focus and track your progress from beginner to mastery of your goals. Create projects, assign individual tasks to each and complete those tasks with the help of a built in PomoDoro timer. Most importantly record your progress, your achievements and the lessons you've learned over your journey with a built in Journaling/Blog section.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Artist Landing</h3>
-        <br />
-        <a target="_blank" href="https://artist-landing.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/ad3d0da849e0b02fe62adb73e17b6cc0dcb3706d/artist_landing.gif" height="300px">
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/christophermorin/artist_landing" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://artist-landing.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> <strong>Javascript, HTML5, CSS3</strong> - A template landing page for user profiles. Used to explore new CSS styles and techniques.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">Bistro Sena</h3>
-        <br />
-        <a target="_blank" href="https://bistrosena.netlify.app"/>
-            <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif">
-        </a>
-        <br />
-        <p align="center">
-            <a href="https://github.com/christophermorin/bistro_sena" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>  
-  <a href="https://bistrosena.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"> <strong>Javascript, HTML5, CSS3</strong> - With a focus on minimalism, Bisto Sena is a fully responsive, sleek and elegant design that can be tailored to any small buisness owner.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3 align="center">Portfolio</h3>
-        <br />
-      <a target="_blank" href="https://chrismorin.netlify.app/">
-            <img src="https://github.com/christophermorin/assets/blob/99e80408635aea63a0cf504084c4b07e54158584/portfolio.gif" height="250px" width="" alt="Portfolio"/>
-        </a>
-        <br />
-        <p align="center">
-  <a href="https://github.com/christophermorin/port_reason" target= _blank>
-    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
-  </a>
-  <a href="https://chrismorin.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
-  </a>
-      </p>
-        <p align="center"><strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to some of my completed and ongoing projects.</p>
-    </td>
-  </tr>
+    <tr>
+        <td valign="top">
+            <h3 align="center">Protos</h3>
+            <br />
+            <p align="center">
+                <a href="https://protos.cyclic.app" target="_blank">
+                    <img src="https://github.com/christophermorin/assets/blob/de52817c8314cfe848df50d463b120858e8d7a12/protos_demo_v2.png" alt="Protos" width="80%"/>
+                </a>
+            </p>
+            <br />
+            <p align="center">
+                <a href="https://github.com/christophermorin/protos_V0" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                </a>
+                <a href="https://protos.cyclic.app">
+                    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                </a>
+            </p>
+            <p align="center">
+                <strong>Vite, React, MaterialUi, NodeJs, MongoDb</strong> - Protos is a fullstack productivity app built to improve consistency towards completing your projects, daily goals, creating new habits and improving every day life.
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
+            <h3 align="center">Social Dashboard</h3>
+            <br />
+            <p align="center">
+                <a href="https://react-social-dashboard.netlify.app/" target="_blank">
+                    <img src="https://github.com/christophermorin/assets/blob/86be6bba3d98e410d64a6ca9136870f1ce30bda3/react-social-dashboard.gif" alt="Social Dashboard" width="80%"/>
+                </a>
+            </p>
+            <br />
+            <p align="center">
+                <a href="https://github.com/christophermorin/react-social-dashboard" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                </a>
+                <a href="https://react-social-dashboard.netlify.app/">
+                    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                </a>
+            </p>
+            <p align="center">
+                <strong>Vite, React, CSS</strong> - Track your followers, subscribers and the daily changes across multiple social media sites. Built using Vite, React and custom CSS.
+            </p>
+        </td>
+    </tr>
+     <tr>
+        <td valign="top">
+            <h3 align="center">Bistro Sena</h3>
+            <br />
+            <p align="center">
+                <a href="https://bistrosena.netlify.app" target="_blank">
+                    <img src="https://github.com/christophermorin/assets/blob/a6689edd58f68fc8877fc9393c3a6833911aef55/ezgif.com-gif-maker.gif" alt="Bistro Sena" width="80%"/>
+                </a>
+            </p>
+            <br />
+            <p align="center">
+                <a href="https://github.com/christophermorin/bistro_sena" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                </a>
+                <a href="https://bistrosena.netlify.app/">
+                    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                </a>
+            </p>
+            <p align="center">
+                <strong>Vite, React, CSS</strong> - Track your followers, subscribers and the daily changes across multiple social media sites. Built using Vite, React and custom CSS.
+            </p>
+        </td>
+    </tr>
+     <tr>
+        <td valign="top">
+            <h3 align="center">Portfolio</h3>
+            <br />
+            <p align="center">
+                <a href="https://chrismorin.netlify.app/" target="_blank">
+                    <img src="https://github.com/christophermorin/assets/blob/99e80408635aea63a0cf504084c4b07e54158584/portfolio.gif" alt="Portfolio" width="50%"/>
+                </a>
+            </p>
+            <br />
+            <p align="center">
+                <a href="https://github.com/christophermorin/port_reason" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                </a>
+                <a href="https://chrismorin.netlify.app/">
+                    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                </a>
+            </p>
+            <p align="center">
+                <strong>Javascript, HTML5, CSS3</strong> - My personal portfolio where you can find links to some of my completed and ongoing projects.
+            </p>
+        </td>
+    </tr>
+ 
   
   
 </table>
