@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/usoDrVmV7nR0FSPdrt/giphy.gif" width="200" height="150"/>
 </div>
 <h1 align="center">
-    Heya, I'm Chris.
+    Hey, I'm Chris.
 </h1>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/chrisjmorin/" target="_blank">
