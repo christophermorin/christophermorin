@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/usoDrVmV7nR0FSPdrt/giphy.gif" width="200" height="150"/>
 </div>
 <h1 align="center">
-    Hi 👋, I'm Chris.
+    Heya, I'm Chris.
 </h1>
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/chrisjmorin/" target="_blank">
@@ -18,7 +18,7 @@
 
 ---
 
-### About Me:
+<!---### About Me:
 - I'm a software developer working with both front and back end technologies.
 - I enjoy contributing to Opensource projects and writing about my experiences with tech.
 - I'm always building and currently expanding my knowledge of TypeScript and SQL.
@@ -26,7 +26,8 @@
 
 ---
 
-### I work with this tech:
+### I work with this tech:--->
+
 <div id="langTech" align="center">
       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-original.svg" title="JavaScript" alt="Javascript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="40" height="40"/>&nbsp;
@@ -171,6 +172,7 @@
   
 </table>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophermorin&show_icons=true&locale=en&layout=compact" alt="christophermorin" /></p>
-
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=christophermorin&show_icons=true&locale=en&layout=compact" alt="christophermorin" background="#000000" /></p>
+<!---
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=christophermorin&" alt="christophermorin" /></p>
+--->
