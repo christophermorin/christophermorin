@@ -54,6 +54,29 @@
 <table bordercolor="#66b2b2">
     <tr>
         <td valign="top">
+            <h3 align="center">BrainBox</h3>
+            <br />
+            <p align="center">
+                <a href="https://brainbox-delta.vercel.app/" target="_blank">
+                    <img src="https://github.com/christophermorin/assets/blob/44bc899f981be5525b8f335f3242eb549c4dec2d/brainbox-sm.png" alt="BrainBox" width="60%"/>
+                </a>
+            </p>
+            <br />
+            <p align="center">
+                <a href="https://github.com/christophermorin/brainbox" target="_blank">
+                    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+                </a>
+                <a href="https://brainbox-delta.vercel.app/">
+                    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
+                </a>
+            </p>
+            <p align="center">
+                <strong>Next.js, Typescript, Supabase, Tailwind</strong> - Effortlessly organize your ideas on the go. Backed by the robust security of multiple authentication methods, while leveraging the rock-solid storage infrastructure of Supabase. 
+            </p>
+        </td>
+    </tr>
+    <tr>
+        <td valign="top">
             <h3 align="center">Protos</h3>
             <br />
             <p align="center">
