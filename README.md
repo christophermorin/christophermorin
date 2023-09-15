@@ -36,15 +36,15 @@
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" style="color: white"/>&nbsp;
 </div>
 
-## Recent Projects
-  [InterView-E](https://interview-e.vercel.app/)
+# Recent Projects
+  ## [InterView-E](https://interview-e.vercel.app/)
 
   [![Nextjs][Next.js]][Next.js-url]
   [![Tailwind][Tailwind]][Tailwind-url]
   [![SupaBase][Supabase]][Supabase-url]
   [![Vercel][Vercel]][Vercel-url]
   
-  [Pricing Mars](https://pricing-mars.vercel.app/)
+  ## [Pricing Mars](https://pricing-mars.vercel.app/)
   
   [![Vitejs][Vite.js]][Vite.js-url]
   [![Reactjs][React.js]][React.js-url]
@@ -58,7 +58,7 @@
   [![SupaBase][Supabase]][Supabase-url]
   [![Vercel][Vercel]][Vercel-url]
 -->
-  [CarbonWorld](https://carbonworld.vercel.app/)
+  ## [CarbonWorld](https://carbonworld.vercel.app/)
 
   [![Vitejs][Vite.js]][Vite.js-url]
   [![Reactjs][React.js]][React.js-url]
@@ -73,7 +73,7 @@
   [![MongoDb][MongoDb]][MongoDb-url]
   [![Node.js][Node.js]][Node.js-url]
 -->
-  [Seeker](https://github.com/christophermorin/seeker)
+  ## [Seeker](https://github.com/christophermorin/seeker)
 
   [![Node.js][Node.js]][Node.js-url]
 
