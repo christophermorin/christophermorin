@@ -13,9 +13,9 @@
     </a>
 </div>
 
-<p>Former bike messenger, once soldier, turned software developer. Always learning. </p>
+<p>Full stack developer based in Canada, skilled at crafting websites and applications using React, Next, Javascript, Typescript, MongoDB and PostgreSQL, all within a test driven environment using mainly Jest and Cypress. Very capable of learning new skills and happy to work within any environment. </p>
 <p>Opensource has been my pursuit lately, as well as expanding my knowledge of Typescript, C# and working with AWS.</p>
-<p>Check out some of my hosted projects, old and new, <a href="https://github.com/christophermorin/projects">here</a>.</p>
+<p>Check out some of my hosted projects, <a href="https://github.com/christophermorin/projects">here</a> or from the list below.</p>
 👋
 <br>
 <br>
