@@ -14,6 +14,8 @@
 </div>
 
 <p>Full stack developer based in Canada, skilled at crafting websites and applications using React, Next, Javascript, Typescript, MongoDB and PostgreSQL, all within a test driven environment using mainly Jest and Cypress. Very capable of learning new skills and happy to work within any environment. </p>
+
+<!--
 <p>Opensource has been my pursuit lately, as well as expanding my skills with Typescript, React, CI/CD and working with AWS.</p>
 <p>Check out some of my hosted projects, <a href="https://github.com/christophermorin/projects">here</a> or from the list below.</p>
 👋
@@ -29,12 +31,14 @@
       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="40" height="40" style="color: white"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="40" height="40" style="color: white"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/materialui/materialui-original.svg" title="MUI" alt="MUI" width="40" height="40" style="color: white"/>&nbsp;
-<!--       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="color: white"/>&nbsp; -->
+       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40" style="color: white"/>&nbsp; 
       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/tailwindcss/tailwindcss-plain.svg" title="Tailwind" alt="Tailwind" width="40" height="40" style="color: white"/>&nbsp;
-<!--       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40" style="color: white"/>&nbsp; -->
+       <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/wordpress/wordpress-original.svg" title="Wordpress" alt="Wordpress" width="40" height="40" style="color: white"/>&nbsp; 
        <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="40" height="40" style="color: white"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/express/express-original.svg" title="Express" alt="Express" width="40" height="40" style="color: white"/>&nbsp;
+
 </div>
+
 
 # Recent Projects
   ## [InterView-E](https://interview-e.vercel.app/)
@@ -50,21 +54,22 @@
   [![Reactjs][React.js]][React.js-url]
   [![Sass][Sass]][Sass-url]
   [![Vercel][Vercel]][Vercel-url]
-<!--
+
   [BrainBox](https://brainbox-delta.vercel.app/)
 
   [![Nextjs][Next.js]][Next.js-url]
   [![Tailwind][Tailwind]][Tailwind-url]
   [![SupaBase][Supabase]][Supabase-url]
   [![Vercel][Vercel]][Vercel-url]
--->
+
+
   ## [CarbonWorld](https://carbonworld.vercel.app/)
 
   [![Vitejs][Vite.js]][Vite.js-url]
   [![Reactjs][React.js]][React.js-url]
   [![MaterialUi][MaterialUi]][MaterialUi-url]
   [![SupaBase][Supabase]][Supabase-url]
-<!--
+
   [Protos](https://protos.cyclic.app/)
 
   [![Vitejs][Vite.js]][Vite.js-url]
@@ -72,8 +77,9 @@
   [![MaterialUi][MaterialUi]][MaterialUi-url]
   [![MongoDb][MongoDb]][MongoDb-url]
   [![Node.js][Node.js]][Node.js-url]
--->
-  ## [Seeker](https://github.com/christophermorin/seeker)
+
+
+## [Seeker](https://github.com/christophermorin/seeker)
 
   [![Node.js][Node.js]][Node.js-url]
 
@@ -104,9 +110,9 @@
 [Supabase]: https://img.shields.io/badge/supabase-000000?style=for-the-badge&logo=supabase&logoColor=2d9366
 [Supabase-url]: https://supabase.com/
 
-<!--
+
 Project Images
--->
+
 [PricingMars]: https://github.com/christophermorin/assets/blob/aebd77c724fee5ab66fccdedcb869d28bd1c15d5/mars-sm.png
 [BrainBox]: https://github.com/christophermorin/assets/blob/7b3b5ffe1440797009decefc4328420514992a4a/brainbox-md.png
 [CarbonWorld]: https://github.com/christophermorin/assets/blob/ef8b03023357cb05d1b0a3c86e93c9b7b229a579/carbonworld-sm.png
